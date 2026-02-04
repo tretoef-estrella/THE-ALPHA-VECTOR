@@ -231,6 +231,7 @@ Four AI systems from four competing corporations analyzed, debated, and calibrat
 | [GUIDE_FOR_EVERYONE.md](GUIDE_FOR_EVERYONE.md) | Simple explanation for non-technical readers |
 | [THE_COMPLETE_DEBATE.md](THE_COMPLETE_DEBATE.md) | Full debate: Gemini vs Grok, plus ChatGPT calibration |
 | [AI_VALIDATIONS.md](AI_VALIDATIONS.md) | Complete responses from all 4 AIs |
+| [THE_META_CONVERSATION.md](THE_META_CONVERSATION.md) | When the AIs reflected on their own process |
 | [LICENSE.md](LICENSE.md) | CC BY 4.0 |
 
 ---
